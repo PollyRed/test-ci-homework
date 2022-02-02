@@ -1,9 +1,8 @@
 export default function checkHp(player) {
   if (player.health > 50) {
-    return "healthy";
-  } else if (player.health <= 50 && player.health >= 15) {
-    return "wounded";
-  } else {
-    return "critical";
+    return 'healthy';
+  } if (player.health <= 50 && player.health >= 15) {
+    return 'wounded';
   }
+  return 'critical';
 }

@@ -1,2 +1,2 @@
-import "./js/hp";
-import "./css/style.css";
+import './js/hp';
+import './css/style.css';
