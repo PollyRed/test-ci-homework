@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gf2vl6jm2bra60d0/branch/main?svg=true)](https://ci.appveyor.com/project/PollyRed/test-ci-homework/branch/main)
